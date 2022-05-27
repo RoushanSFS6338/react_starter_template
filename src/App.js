@@ -1,11 +1,12 @@
 
 import './App.css';
+import Form from './components/Form';
 
 function App() {
   return (
     <div className="App">
-    react forms with mui
-
+    React forms with mui
+    <Form/>
 
 
 
